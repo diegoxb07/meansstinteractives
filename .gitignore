@@ -1,0 +1,11 @@
+# Ignore large files
+# You can specify the file types or specific files to ignore based on your project's needs.
+
+# Ignore all files with specific extensions
+*.zip
+*.tar.gz
+*.7z
+*.iso
+*.bin
+
+# You can add other rules as necessary
